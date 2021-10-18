@@ -1,4 +1,12 @@
-# Oie Eu sou a Aliny !
+<h3 align="center">
+ <br>
+Oi, Eu sou a Aliny! 🇧🇷
+<br>
+ Estudante de Ciência da Computação na Faculdade Estácio de Sá - Manaus/AM. <br>
+ No momento focando meus estudos em desenvolvimento front-end. =)
+</h3>
+
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alisouzr&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisouzr&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
