@@ -3,7 +3,7 @@
 Oi, Eu sou a Aliny! 🇧🇷
 <br>
  Estudante de Ciência da Computação na Faculdade Estácio de Sá - Manaus/AM. <br>
- Sou apaixonada por criação e tecnologia, e estou focando meus estudos em desenvolvimento. =)
+ Focando meus estudos em Desenvolvimento. =)
 </h3>
 
 
