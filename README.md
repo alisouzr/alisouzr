@@ -1,31 +1,44 @@
-<h3 align="center">
+<h3>
  <br>
-Oi, Eu sou a Aliny! 🇧🇷
+Hello, I'm Aliny! 🇧🇷
 <br>
- Estudante de Ciência da Computação na Faculdade Estácio de Sá - Manaus/AM. <br>
- Desenvolvedora Full-Stack em formação. =)
+ Bachelor’s student in Computer Science  <br>
+ Full-Stack Developer in training =)
 </h3>
+<hr>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alisouzr&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisouzr&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisouzr&layout=compact&theme=dracula&hide_border=true" /></a><hr>
 
 
-<h3 align="center">
-<div style="display: inline_block"><br>
+<h3>Skills</h3>
+
+<h3>
+<div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+ <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+ <img align="center" alt="Kubernetes" height="30" width="30" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png">
+ <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+ <img align="center" alt="Docker" height="30" width="40" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
+ 
+ <img align="center" alt="Prisma" height="60" width="114" src="https://i.imgur.com/wD4rVt4.png">
+ <img align="center" alt="Insomnia" height="40" width="40" style="margin-right: 12px;" src="https://img.stackshare.io/service/6406/qLPJL1NZ.jpg">
+ 
+ 
 </div>
   
- <div><br>
-   <a href = "mailto:souzaramosaliny.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aliny-souza-0144261b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-   ![Snake animation](https://github.com/alisouzr/alisouzr/blob/output/github-contribution-grid-snake.svg)
- </div>
-</h3> 
+ <h3>Contact</h3>
+ <a href="https://www.linkedin.com/in/aliny-souza-0144261b4/">
+   <img align="center" alt="Linkedin" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg">
+ </a>
+
+
+
 <!--
 **alisouzr/alisouzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
