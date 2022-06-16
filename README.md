@@ -3,7 +3,7 @@
 Hello, I'm Aliny! 🇧🇷
 <br>
  Bachelor’s student in Computer Science  <br>
- Full-Stack Developer in training =)
+ Full-Stack Developer =)
 </h3>
 <hr>
 
