@@ -3,8 +3,8 @@
 Hello, I'm Aliny! 🇧🇷
 <br>
  Bachelor’s student in Computer Science  <br>
- Full-Stack Developer =)
- My focus on 2023 is Learning more about Python and things about the world Back-end, like API 
+ Full-Stack Developer =) <br>
+ My focus on 2023 is Learning more about Python and things about the world of Back-end, like API 
 </h3>
 <hr>
 
